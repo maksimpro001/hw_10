@@ -1,0 +1,27 @@
+* 
+{
+    margin: 0;
+}
+
+.button_icons
+{
+    margin: auto;
+    margin-top: 10px;
+    background-color: #0DBA4B;
+    display: flex;
+    border-radius: 5px;
+    width: 320px;
+    height: 60px;
+    box-sizing: border-box;
+}
+
+.button
+{
+    padding: 10px 20px;
+}
+
+.img
+{
+    height: 40px;
+    width: 40px;
+}
